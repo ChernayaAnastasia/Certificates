@@ -10,5 +10,5 @@
 
 1. [SQL для анализа данных с Глебом Михайловым](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
 2. Python for everybody (все 6 курсов специализации), Coursera
-3. Pandas, kaggle.com
+3. [Pandas, kaggle.com](https://github.com/ChernayaAnastasia/Certificates/blob/main/Chernaya%20Anastasia%20-%20Pandas.png)
 
