@@ -8,7 +8,7 @@
 
 ## Дополнительные:
 
-1. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP]()
+1. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP](https://github.com/ChernayaAnastasia/Certificates/blob/main/Сертификат_Черная.jpg)
 
 2. [SQL для анализа данных с Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
 
