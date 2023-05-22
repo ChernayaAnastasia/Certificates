@@ -12,7 +12,7 @@
 
 2. [SQL для анализа данных с Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
 
-3. [Data Science c Глебом Михайловым, Stepik]()
+3. [Data Science c Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/stepik-certificate-113596-8f569b5.pdf)
 
 4. [Python for everybody (все 6 курсов специализации), Coursera](https://github.com/ChernayaAnastasia/Certificates/tree/main/Python_for_everybody)
 
