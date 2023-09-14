@@ -7,7 +7,7 @@
 2. [Диплом о профессиональной переподготовке "Аналитик данных", Яндекс.Практикум](https://github.com/ChernayaAnastasia/Certificates/blob/main/Anastasia%20Chernaya_20222DA00422.pdf)
 
 ## Дополнительные:
-1. [Буткем по рекомендательным системам от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" и Magnit Tech]()
+1. [Буткемп по рекомендательным системам от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" и Magnit Tech](https://github.com/ChernayaAnastasia/Certificates/blob/main/chernaya_anastasia_recsys.pdf)
 2. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP](https://github.com/ChernayaAnastasia/Certificates/blob/main/Сертификат_Черная.jpg)
 
 3. [SQL для анализа данных с Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
