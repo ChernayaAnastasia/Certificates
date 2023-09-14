@@ -7,14 +7,14 @@
 2. [Диплом о профессиональной переподготовке "Аналитик данных", Яндекс.Практикум](https://github.com/ChernayaAnastasia/Certificates/blob/main/Anastasia%20Chernaya_20222DA00422.pdf)
 
 ## Дополнительные:
+1. [Буткем по рекомендательным системам от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" и Magnit Tech]()
+2. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP](https://github.com/ChernayaAnastasia/Certificates/blob/main/Сертификат_Черная.jpg)
 
-1. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP](https://github.com/ChernayaAnastasia/Certificates/blob/main/Сертификат_Черная.jpg)
+3. [SQL для анализа данных с Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
 
-2. [SQL для анализа данных с Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/SQl_with_Gleb_certificate.pdf)
+4. [Data Science c Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/stepik-certificate-113596-8f569b5.pdf)
 
-3. [Data Science c Глебом Михайловым, Stepik](https://github.com/ChernayaAnastasia/Certificates/blob/main/stepik-certificate-113596-8f569b5.pdf)
+5. [Python for everybody (все 6 курсов специализации), Coursera](https://github.com/ChernayaAnastasia/Certificates/tree/main/Python_for_everybody)
 
-4. [Python for everybody (все 6 курсов специализации), Coursera](https://github.com/ChernayaAnastasia/Certificates/tree/main/Python_for_everybody)
-
-5. [Pandas, kaggle.com](https://github.com/ChernayaAnastasia/Certificates/blob/main/Chernaya%20Anastasia%20-%20Pandas.png)
+6. [Pandas, kaggle.com](https://github.com/ChernayaAnastasia/Certificates/blob/main/Chernaya%20Anastasia%20-%20Pandas.png)
 
