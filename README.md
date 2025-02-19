@@ -7,7 +7,8 @@
 2. [Диплом о профессиональной переподготовке "Аналитик данных", Яндекс.Практикум](https://github.com/ChernayaAnastasia/Certificates/blob/main/Anastasia%20Chernaya_20222DA00422.pdf)
 
 ## Дополнительные:
-
+1. [Natural Language Processing course on ods.ai (автор Валентин Малых, поток 7, сентбярь 2024 - декабрь 2024)](https://github.com/ChernayaAnastasia/Certificates/blob/main/NLP_7_24_6.pdf)
+   
 1. [NLP Интенсив от EcomTech и Deep Learning School (МФТИ) 19 сентября -9 октября 2024](https://github.com/ChernayaAnastasia/Certificates/blob/main/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F%20%D0%A7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F.pdf)
 
 2. [Буткемп от онлайн-магистратуры Вышки "Машинное обучение и высоконагруженные системы" Second step in NLP 2.0](https://github.com/ChernayaAnastasia/Certificates/blob/main/First%20Step%20in%20NLP%202.0.pdf)
